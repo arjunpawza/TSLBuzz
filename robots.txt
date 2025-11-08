@@ -1,2 +1,2 @@
 
-Sitemap: https://arjunpawza.github.io/TSLBuzz/sitemap.xml
+Sitemap: https://sitemap.tslbuzz.com/sitemap.xml
