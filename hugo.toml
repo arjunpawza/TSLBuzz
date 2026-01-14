@@ -1,0 +1,15 @@
+baseURL = "https://cfpfinallive.github.io/stream/"
+languageCode = "en-us"
+title = "CFP National Championship Game 2026 || Indiana Hoosiers vs Miami Hurricanes"
+
+[params]
+  profileMode = { enabled = false }
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[deployment]
+[[deployment.targets]]
+  name = "GitHub Pages"
+  URL = "https://github.com/cfpfinallive/stream.git"
+  branch = "gh-pages"
