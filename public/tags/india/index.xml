@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>India on Daytona 500 | The Great American Race</title>
+    <link>http://localhost:1313/tags/india/</link>
+    <description>Recent content in India on Daytona 500 | The Great American Race</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/india/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sir Mark Tully, the BBC&#39;s &#39;voice of India&#39;, dies aged 90</title>
+      <link>http://localhost:1313/news/sir-mark-tully-the-bbc-s-voice-of-india-dies-aged-90/</link>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/sir-mark-tully-the-bbc-s-voice-of-india-dies-aged-90/</guid>
+      <description>Sir Mark covered some of the defining moments in India&amp;rsquo;s history in a career that spanned decades.</description>
+    </item>
+    <item>
+      <title>What India&#39;s Republic Day red carpet means for its foreign policy</title>
+      <link>http://localhost:1313/news/what-india-s-republic-day-red-carpet-means-for-its-foreign-policy/</link>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/what-india-s-republic-day-red-carpet-means-for-its-foreign-policy/</guid>
+      <description>Who sits beside India’s president on Republic Day signals Delhi’s diplomatic priorities to the world.</description>
+    </item>
+  </channel>
+</rss>

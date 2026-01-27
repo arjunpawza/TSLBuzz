@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prisoners on Daytona 500 | The Great American Race</title>
+    <link>http://localhost:1313/tags/prisoners/</link>
+    <description>Recent content in Prisoners on Daytona 500 | The Great American Race</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/prisoners/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Venezuela frees 104 political prisoners, rights group says</title>
+      <link>http://localhost:1313/news/venezuela-frees-104-political-prisoners-rights-group-says/</link>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/venezuela-frees-104-political-prisoners-rights-group-says/</guid>
+      <description>A human rights lawyer and a communications student are among those freed, Caracas-based Foro Penal says.</description>
+    </item>
+    <item>
+      <title>Venezuela frees dozens of political prisoners, human rights group says</title>
+      <link>http://localhost:1313/news/venezuela-frees-dozens-of-political-prisoners-human-rights-group-says/</link>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/venezuela-frees-dozens-of-political-prisoners-human-rights-group-says/</guid>
+      <description>It is the latest batch of detainees freed since the US seized Venezuelan President Nicolás Maduro in a raid.</description>
+    </item>
+    <item>
+      <title>Iran accused of sex assaults on teenage prisoners, while families charged to recover remains of loved ones</title>
+      <link>http://localhost:1313/news/iran-accused-of-sex-assaults-on-teenage-prisoners-while-families-charged-to-recover-remains-of-loved-ones/</link>
+      <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/iran-accused-of-sex-assaults-on-teenage-prisoners-while-families-charged-to-recover-remains-of-loved-ones/</guid>
+      <description>Iran&#39;s prosecutor general Mohammad Movahedi claims government crushed nationwide protests as death toll reaches 544 with over 10,681 arrested.</description>
+    </item>
+  </channel>
+</rss>

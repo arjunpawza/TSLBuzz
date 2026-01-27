@@ -1,6 +1,6 @@
-baseURL = "https://cfpfinallive.github.io/stream/"
+baseURL = "https://tslbuzz.com"
 languageCode = "en-us"
-title = "CFP National Championship Game 2026 || Indiana Hoosiers vs Miami Hurricanes"
+title = "Daytona 500 | The Great American Race"
 
 [params]
   profileMode = { enabled = false }
@@ -11,5 +11,48 @@ title = "CFP National Championship Game 2026 || Indiana Hoosiers vs Miami Hurric
 [deployment]
 [[deployment.targets]]
   name = "GitHub Pages"
-  URL = "https://github.com/cfpfinallive/stream.git"
+  URL = "https://github.com/daytona500/race.git"
   branch = "gh-pages"
+
+[[menu.main]]
+  identifier = "home"
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 2
+
+[[menu.main]]
+  identifier = "events"
+  name = "Events"
+  url = "/events/"
+  weight = 3
+  
+[[menu.main]]
+  identifier = "broadcasting"
+  name = "Broadcasting"
+  url = "/broadcasting/"
+  weight = 4
+
+[[menu.main]]
+  identifier = "leaderboard"
+  name = "Leaderboard"
+  url = "/leaderboard/"
+  weight = 5
+  
+[[menu.main]]
+  identifier = "news"
+  name = "News"
+  url = "/news/"
+  weight = 6
+
+[[menu.main]]
+  identifier = "faq"
+  name = "FAQ"
+  url = "/faq/"
+  weight = 7
+

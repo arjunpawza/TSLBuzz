@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ferry on Daytona 500 | The Great American Race</title>
+    <link>http://localhost:1313/tags/ferry/</link>
+    <description>Recent content in Ferry on Daytona 500 | The Great American Race</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ferry/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ferry carrying over 350 people sinks in Philippines, killing at least 15</title>
+      <link>http://localhost:1313/news/ferry-carrying-over-350-people-sinks-in-philippines-killing-at-least-15/</link>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/ferry-carrying-over-350-people-sinks-in-philippines-killing-at-least-15/</guid>
+      <description>The coastguard says at least 316 people have been rescued so far, while 28 others remain missing.</description>
+    </item>
+    <item>
+      <title>Ferry with more than 350 people sinks in the southern Philippines leaving at least 15 dead - AP News</title>
+      <link>http://localhost:1313/news/ferry-with-more-than-350-people-sinks-in-the-southern-philippines-leaving-at-least-15-dead-ap-news/</link>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/ferry-with-more-than-350-people-sinks-in-the-southern-philippines-leaving-at-least-15-dead-ap-news/</guid>
+      <description>Ferry with more than 350 people sinks in the southern Philippines leaving at least 15 dead  AP NewsFerry carrying more than 350 people sinks in southern Philippines  CNNDeath toll in Philippine boat accident climbs to 15, hundreds rescued  ReutersFifteen dead after ferry with 300 passengers sinks in Philippines  BBCPhilippines ferry with 350 on board capsizes leaving 15 dead and dozens missing  The Guardian</description>
+    </item>
+    <item>
+      <title>Fifteen dead after Philippines ferry with 300 passengers sinks</title>
+      <link>http://localhost:1313/news/fifteen-dead-after-philippines-ferry-with-300-passengers-sinks/</link>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/fifteen-dead-after-philippines-ferry-with-300-passengers-sinks/</guid>
+      <description>The local coast guard is still searching for 28 missing passengers of the MV Trisha Kerstin.</description>
+    </item>
+  </channel>
+</rss>

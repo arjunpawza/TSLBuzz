@@ -1,67 +1,74 @@
 ---
-title: "FAQ"
-date: 2026-01-12
+title: "Daytona 500 - Frequently Asked Questions & Answers"
+date: 2026-01-26
 ---
 
-<ol>
-    <li>
-        <p><strong>Q: When is the 2026 College Football Playoff National Championship game?</strong><br>
-       <strong>A:</strong> The game is scheduled for Monday, January 19, 2026. Kickoff is at 7:30 p.m. ET (some sources note a slight adjustment to 7:45 p.m. ET or 7:50 p.m. ET for pregame buildup). Pregame coverage, including ESPN's College GameDay, starts at 5:00 p.m. ET.</p>
-    </li>
-    <li>
-        <p><strong>Q: Where is the 2026 CFP National Championship being played?</strong><br>
-        <strong>A:</strong> The game takes place at Hard Rock Stadium in Miami Gardens, Florida. This is the home stadium of the Miami Hurricanes (and the NFL's Miami Dolphins), making it historic as the first time in the modern CFP/BCS era a team plays for the national title on its home field.</p>
-    </li>
-    <li>
-        <p><strong>Q: Who is playing in the 2026 CFP National Championship?</strong><br>
-        <strong>A:</strong> The matchup is No. 1 seed Indiana Hoosiers (15-0) vs. No. 10 seed Miami Hurricanes (13-2). Indiana earned the top seed with a perfect season and first-round bye, while Miami advanced as the last at-large team and pulled off upsets.</p>
-    </li>
-    <li>
-        <p><strong>Q: What is the significance of this matchup?</strong><br>
-        <strong>A:</strong> This is one of the most unlikely title games in CFP history. Indiana seeks its first-ever national championship and aims to become the first 16-0 team in modern FBS history. Miami pursues its sixth claimed title (first since 2001) and would be the first team to win on its home field in the CFP era.</p>
-    </li>
-    <li>
-        <p><strong>Q: How did Indiana reach the national championship?</strong><br>
-        <strong>A:</strong> Indiana went undefeated in the regular season (12-0, 9-0 Big Ten), won the Big Ten Championship over Ohio State, received a first-round bye, crushed No. 9 Alabama 38-3 in the Rose Bowl quarterfinal, and dominated No. 5 Oregon 56-22 in the Peach Bowl semifinal.</p>
-    </li>
-    <li>
-        <p><strong>Q: How did Miami reach the national championship?</strong><br>
-        <strong>A:</strong> Miami finished 13-2 (6-2 ACC), earned the No. 10 seed controversially, then upset No. 7 Texas A&M 10-3 in the first round, No. 2 Ohio State 24-14 in the Cotton Bowl quarterfinal, and No. 6 Ole Miss 31-27 in the Fiesta Bowl semifinal (a thrilling comeback).</p>
-    </li>
-    <li>
-        <p><strong>Q: What TV channel is broadcasting the game?</strong><br>
-        <strong>A:</strong> The game airs nationally on ESPN. The announce team includes Chris Fowler (play-by-play), Kirk Herbstreit (analyst), and sideline reporters Holly Rowe and Molly McGrath. ESPN's Megacast offers alternate feeds on ESPN2, ESPNU, ESPNews, and ESPN Deportes (Spanish).</p>
-    </li>
-    <li>
-        <p><strong>Q: How can I stream the 2026 CFP National Championship?</strong><br>
-        <strong>A:</strong> Stream via the ESPN App, WatchESPN.com, or the NCAA football streaming hub (requires ESPN authentication). Paid options include Fubo, YouTube TV, Hulu + Live TV, DirecTV Stream, or Sling TV (all carry ESPN; check for free trials). ESPN+ does not carry the game.</p>
-    </li>
-    <li>
-        <p><strong>Q: Are there free ways to watch the game?</strong><br>
-        <strong>A:</strong> No official free streams exist in the U.S. (ESPN holds exclusive rights). However, new users may access via free trials on Fubo, YouTube TV, or Hulu + Live TV (cancel before billing). Avoid illegal sites due to quality and security risks.</p>
-    </li>
-    <li>
-        <p><strong>Q: What is the current spread and odds for Indiana vs. Miami?</strong><br>
-        <strong>A:</strong> Indiana is favored by about 7.5 points (varies by sportsbook), with an over/under around 48.5 points. Indiana is the moneyline favorite (e.g., -322), reflecting their undefeated run and dominance.</p>
-    </li>
-    <li>
-        <p><strong>Q: Who are the key players to watch?</strong><br>
-        <strong>A:</strong> For Indiana: Heisman Trophy winner QB Fernando Mendoza (Miami native, elite passer). For Miami: Transfer QB Carson Beck (clutch performer) and a strong defense/pass rush. Watch Indiana's balanced offense vs. Miami's opportunistic secondary and ground game.</p>
-    </li>
-    <li>
-        <p><strong>Q: What pregame entertainment is planned?</strong><br>
-        <strong>A:</strong> Pregame festivities start at 7:30 p.m. ET inside the stadium (produced by Michael T. Fiur Productions). American Idol winner Jamal Roberts performs the national anthem. Halftime includes marching bands from both schools.</p>
-    </li>
-    <li>
-        <p><strong>Q: Can I attend the game in person?</strong><br>
-        <strong>A:</strong> Tickets are extremely limited/expensive (resale often $3,500+ for entry-level). The stadium holds over 65,000; expect heavy traffic, tailgating, and strict security (clear bag policy). Book travel/hotels early if attending.</p>
-    </li>
-    <li>
-        <p><strong>Q: Has Hard Rock Stadium hosted a CFP title game before?</strong><br>
-        <strong>A:</strong> Yes — it hosted the 2021 CFP National Championship (Alabama vs. Ohio State). This makes Miami Gardens the second city (after Atlanta) to host twice. The venue will also host 2026 FIFA World Cup matches.</p>
-    </li>
-    <li>
-        <p><strong>Q: What happens if the game goes to overtime or is delayed?</strong><br>
-        <strong>A:</strong> Standard NCAA overtime rules apply (two possessions per team, alternating). Weather in mid-January Miami is typically mild (70-75°F), but the stadium has a canopy for shade/rain protection. Delays would follow ESPN/NFL-style protocols.</p>
-    </li>
-</ol>
+## Daytona 500 — Frequently Asked Questions & Answers
+
+**Q: What should I know about ticket delivery for the Daytona 500?**
+
+**A:** Your tickets will be delivered based on the method you selected during purchase. Options typically include mobile delivery (e-tickets for your smartphone), print-at-home, or traditional physical tickets sent via mail. Check your confirmation email for specific details about your ticket delivery method.
+
+**Q: How does parking work for the Daytona 500?**
+
+**A:** Free parking is available in designated lots (Lots 3, 5, and 6), with shuttle service to the front stretch. Paid, premium parking options are also available for purchase in lots closer to the venue. It is highly recommended to purchase parking passes in advance.
+
+**Q: Is transportation provided to the Daytona 500?**
+
+**A:** Daytona International Speedway provides shuttle services from its free and paid parking lots to the main entrance gates. Some ticket packages from third-party vendors may also include park-and-ride shuttle services from various locations in the Daytona Beach area.
+
+**Q: What can I bring into the Daytona 500 event?**
+
+**A:** Each guest is permitted to bring one soft-sided cooler (maximum size 14”x14”x14”) and one lightweight backpack. All items are subject to a thorough inspection at the entrance gates. Prohibited items typically include hard-sided coolers, weapons, illegal substances, and large umbrellas.
+
+**Q: What happens if the Daytona 500 is affected by weather?**
+
+**A:** In case of a weather postponement, your ticket will be honored for the rescheduled race date. Under the Speedway's Weather Protection Program, if you cannot attend the new date, you may be eligible to exchange your ticket for a future NASCAR event at a Daytona-owned track.
+
+**Q: Can I get a refund or exchange my ticket if I can’t attend?**
+
+**A:** As a general rule, tickets are non-refundable and non-exchangeable. Refunds or exchanges are typically only offered if the event is canceled outright or under specific conditions outlined in the weather protection policy.
+
+**Q: What are the food and beverage options at the Daytona 500?**
+
+**A:** A wide variety of food and beverage options are available from numerous concession stands throughout the concourse, offering classic stadium fare, local specialties, and alcoholic/non-alcoholic drinks. You are also permitted to bring your own food and sealed beverages in your cooler.
+
+**Q: What safety protocols are in place at the Daytona 500?**
+
+**A:** All guests will go through a security screening process upon entry. The speedway has a clear bag policy, and there are established emergency procedures. Medical stations are located throughout the facility for assistance.
+
+**Q: Is there a lost & found for the Daytona 500?**
+
+**A:** Yes. If you lose an item, you can visit a Guest Services booth at the speedway to file a report. After the event, you can contact the Daytona International Speedway Guest Services department to inquire about lost items.
+
+**Q: Can I bring my cooler to the Daytona 500?**
+
+**A:** Yes. Soft-sided coolers with a maximum size of 14"x14"x14" are permitted. Hard-sided coolers are not allowed. All coolers will be inspected upon entry.
+
+**Q: Where is the Daytona International Speedway located?**
+
+**A:** The speedway is located at 1801 West International Speedway Blvd., Daytona Beach, Florida, 32114.
+
+**Q: How do I contact Speedway Guest Services?**
+
+**A:** You can contact Daytona International Speedway Guest Services via the contact form on their official website or by calling their main phone line for assistance with any questions.
+
+**Q: What are the rules for infield admission at the Daytona 500?**
+
+**A:** Infield admission requires a special ticket or camping pass. It provides access to a unique viewing area and fan zone inside the track. Specific rules regarding access, vehicle types, and conduct are provided with the purchase of an infield pass.
+
+**Q: What accessibility services are available for fans with disabilities?**
+
+**A:** The speedway offers accessible parking, wheelchair-accessible seating, and companion seating. Please contact the ticket office in advance to arrange for any specific accessibility needs.
+
+**Q: Is merchandise allowed at the Daytona 500?**
+
+**A:** Yes, you can bring merchandise purchased at the track or from other official vendors. Large quantities of merchandise for resale are not permitted.
+
+**Q: What happens if my ticket was not received by mail?**
+
+**A:** If you selected physical ticket delivery and have not received them within a week of the event, contact the Daytona International Speedway ticket office immediately. They can often arrange for your tickets to be held at will-call.
+
+**Q: Are there designated rideshare zones?**
+
+**A:** Yes, there are designated drop-off and pick-up zones for rideshare services like Uber and Lyft. Follow the signage and directions from staff to locate these areas.

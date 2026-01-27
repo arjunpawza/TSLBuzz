@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Border on Daytona 500 | The Great American Race</title>
+    <link>http://localhost:1313/tags/border/</link>
+    <description>Recent content in Border on Daytona 500 | The Great American Race</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/border/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Minnesota Gov Walz demands Trump remove border agents after nurse killed</title>
+      <link>http://localhost:1313/news/minnesota-gov-walz-demands-trump-remove-border-agents-after-nurse-killed/</link>
+      <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/minnesota-gov-walz-demands-trump-remove-border-agents-after-nurse-killed/</guid>
+      <description>US president faces intensifying pressure over immigration crackdown following a second fatal shooting in Minneapolis.</description>
+    </item>
+  </channel>
+</rss>

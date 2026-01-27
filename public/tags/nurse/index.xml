@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nurse on Daytona 500 | The Great American Race</title>
+    <link>http://localhost:1313/tags/nurse/</link>
+    <description>Recent content in Nurse on Daytona 500 | The Great American Race</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/nurse/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Who was Alex Pretti, the intensive care nurse shot dead in Minneapolis?</title>
+      <link>http://localhost:1313/news/who-was-alex-pretti-the-intensive-care-nurse-shot-dead-in-minneapolis/</link>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/who-was-alex-pretti-the-intensive-care-nurse-shot-dead-in-minneapolis/</guid>
+      <description>He has been described as an avid outdoorsman who loved mountain biking.</description>
+    </item>
+    <item>
+      <title>Outrage after US agents kill ICU nurse Alex Pretti in Minnesota</title>
+      <link>http://localhost:1313/news/outrage-after-us-agents-kill-icu-nurse-alex-pretti-in-minnesota/</link>
+      <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/outrage-after-us-agents-kill-icu-nurse-alex-pretti-in-minnesota/</guid>
+      <description>Authorities say Alex Pretti posed a violent threat when shot by US ICE agents, but multiple videos suggest otherwise.</description>
+    </item>
+  </channel>
+</rss>

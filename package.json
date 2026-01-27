@@ -1,0 +1,24 @@
+{
+  "name": "pages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run generate && hugo server -D",
+    "dev": "npm run start",
+    "generate": "go run scripts/generate-posts.go",
+    "build": "npm run generate && hugo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cfpfinallive/stream.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/cfpfinallive/stream/issues"
+  },
+  "homepage": "https://github.com/cfpfinallive/stream#readme"
+}
