@@ -1,0 +1,7 @@
+# Hugo directories
+/public/
+/resources/
+/dist/
+
+# Lock file
+.hugo_build.lock
